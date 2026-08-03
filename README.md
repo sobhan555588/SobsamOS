@@ -22,8 +22,9 @@ v - version<br>
 a - about<br>
 c - clear screen<br>
 r - reboot<br>
-s - shutdown
-
+s - shutdown<br>
+p - print <br>
+More Command On Next Version
 
 ## Run
 
