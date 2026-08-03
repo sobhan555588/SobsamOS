@@ -17,11 +17,11 @@ It boots directly from BIOS and provides a simple command line interface.
 - Basic commands
 
 ## Commands
-h - help
-v - version
-a - about
-c - clear screen
-r - reboot
+h - help<br>
+v - version<br>
+a - about<br>
+c - clear screen<br>
+r - reboot<br>
 s - shutdown
 
 
